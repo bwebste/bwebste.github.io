@@ -1,0 +1,30 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: #ffffff; PADDING-BOTTOM: 0px; MARGIN: 0px auto; COLOR: #000000; PADDING-TOP: 0px; FONT-FAMILY: "Times New Roman",serif
+}
+#wrap {
+	FLOAT: none! important; MARGIN: 2%; WIDTH: auto
+}
+#header H1 {
+	MARGIN: 0px 0px 25px
+}
+#frontphoto {
+	DISPLAY: none
+}
+#leftside UL {
+	DISPLAY: none
+}
+#extras {
+	DISPLAY: none
+}
+.announce {
+	DISPLAY: none
+}
+.hide {
+	DISPLAY: none
+}
+#content IMG {
+	DISPLAY: none
+}
+A {
+	COLOR: #0000ff; TEXT-DECORATION: underline
+}
