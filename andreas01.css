@@ -1,0 +1,183 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(img/bg.gif) #f4f4f4 repeat-y center top; PADDING-BOTTOM: 0px; MARGIN: 0px auto; FONT: 82% Verdana,Tahoma,Arial,sans-serif; COLOR: #303030; PADDING-TOP: 0px
+}
+#wrap {
+	BACKGROUND: #ffffff; MARGIN: 0px auto; WIDTH: 780px; COLOR: #303030
+}
+A {
+	FONT-WEIGHT: bold; COLOR: #286ea0; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #286ea0; TEXT-DECORATION: underline
+}
+A IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#header {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 10px 0px 0px; PADDING-TOP: 0px; HEIGHT: 45px
+}
+#header H1 {
+	FONT-SIZE: 2.2em; FLOAT: left; MARGIN: 0px 0px 10px; WIDTH: 250px; COLOR: #505050
+}
+#header H1 A {
+	COLOR: #505050; TEXT-DECORATION: none
+}
+#header P {
+	FONT-WEIGHT: bold; FONT-SIZE: 1.1em; FLOAT: right; MARGIN: 8px 0px 0px; WIDTH: 500px; COLOR: #505050; LINE-HEIGHT: 1.3em; TEXT-ALIGN: center
+}
+#frontphoto {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px 0px 10px; BORDER-RIGHT-WIDTH: 0px
+}
+#leftside {
+	CLEAR: left; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 5px; WIDTH: 140px; PADDING-TOP: 0px
+}
+#leftside H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 1.3em; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 5px; COLOR: #505050; PADDING-TOP: 0px
+}
+#leftside H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 1.3em; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 5px; COLOR: #505050; PADDING-TOP: 0px
+}
+#leftside DIV.announce {
+	CLEAR: left; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 0.9em; PADDING-BOTTOM: 7px; MARGIN: 10px 0px 15px; BORDER-LEFT: #cccccc 4px solid; WIDTH: 126px; COLOR: #505050; LINE-HEIGHT: 1.5em; PADDING-TOP: 7px; BACKGROUND-COLOR: #f4f4f4
+}
+#leftside DIV.announce P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 10px 0px 0px; PADDING-TOP: 0px
+}
+UL.avmenu {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 18px; WIDTH: 140px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+UL.avmenu LI {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; WIDTH: 140px; LINE-HEIGHT: 1.4em; PADDING-TOP: 0px
+}
+UL.avmenu LI A {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FLOAT: left; MARGIN-BOTTOM: 5px; PADDING-BOTTOM: 5px; BORDER-LEFT: #cccccc 4px solid; WIDTH: 130px; COLOR: #505050; PADDING-TOP: 5px; BACKGROUND-COLOR: #f4f4f4; TEXT-DECORATION: none
+}
+UL.avmenu LI A:hover {
+	BORDER-LEFT: #286ea0 4px solid; COLOR: #505050; BACKGROUND-COLOR: #eaeaea
+}
+UL.avmenu LI A.current {
+	BORDER-LEFT: #286ea0 4px solid; COLOR: #505050; BACKGROUND-COLOR: #eaeaea
+}
+UL.avmenu UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0.9em; PADDING-BOTTOM: 5px; MARGIN: 0px 0px 0px 15px; WIDTH: 125px; PADDING-TOP: 0px
+}
+UL.avmenu UL A {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 5px; PADDING-BOTTOM: 3px; WIDTH: 115px; PADDING-TOP: 3px
+}
+UL.avmenu UL UL {
+	WIDTH: 113px
+}
+UL.avmenu UL UL A {
+	WIDTH: 100px
+}
+#extras {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 5px; WIDTH: 140px; LINE-HEIGHT: 1.4em; PADDING-TOP: 0px
+}
+#extras P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0.9em; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 16px; PADDING-TOP: 0px
+}
+#extras UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0.9em; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 16px; PADDING-TOP: 0px
+}
+#extras LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 6px; LINE-HEIGHT: 1.2em; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#extras UL UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 6px 0px 0px 10px; PADDING-TOP: 0px
+}
+#extras UL UL LI {
+	MARGIN: 0px 0px 4px
+}
+#extras UL UL LI A {
+	FONT-WEIGHT: normal; FONT-SIZE: 1.1em
+}
+#extras H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 1.2em; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 10px; COLOR: #505050; PADDING-TOP: 0px
+}
+#extras H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 1.2em; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 10px; COLOR: #505050; PADDING-TOP: 0px
+}
+#content {
+	BORDER-RIGHT: #e0e0e0 1px solid; PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; MARGIN: 0px 150px 5px; BORDER-LEFT: #e0e0e0 1px solid; LINE-HEIGHT: 1.6em; PADDING-TOP: 0px
+}
+#contentwide {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 5px 150px; BORDER-LEFT: #f0f0f0 1px solid; LINE-HEIGHT: 1.6em; PADDING-TOP: 0px
+}
+#content H2 {
+	FONT-SIZE: 1.6em; MARGIN: 0px 0px 10px
+}
+#contentwide H2 {
+	FONT-SIZE: 1.6em; MARGIN: 0px 0px 10px
+}
+#content H3 {
+	FONT-SIZE: 1.4em; MARGIN: 0px 0px 8px
+}
+#contentwide H3 {
+	FONT-SIZE: 1.4em; MARGIN: 0px 0px 8px
+}
+#content IMG {
+	BORDER-RIGHT: #f0f0f0 4px solid; PADDING-RIGHT: 1px; BORDER-TOP: #f0f0f0 4px solid; DISPLAY: inline; PADDING-LEFT: 1px; BACKGROUND: #cccccc; PADDING-BOTTOM: 1px; BORDER-LEFT: #f0f0f0 4px solid; COLOR: #303030; PADDING-TOP: 1px; BORDER-BOTTOM: #f0f0f0 4px solid
+}
+#contentwide IMG {
+	BORDER-RIGHT: #f0f0f0 4px solid; PADDING-RIGHT: 1px; BORDER-TOP: #f0f0f0 4px solid; DISPLAY: inline; PADDING-LEFT: 1px; BACKGROUND: #cccccc; PADDING-BOTTOM: 1px; BORDER-LEFT: #f0f0f0 4px solid; COLOR: #303030; PADDING-TOP: 1px; BORDER-BOTTOM: #f0f0f0 4px solid
+}
+#content UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 16px 20px; PADDING-TOP: 0px
+}
+#contentwide UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 16px 20px; PADDING-TOP: 0px
+}
+#content OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 16px 20px; PADDING-TOP: 0px
+}
+#contentwide OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 16px 20px; PADDING-TOP: 0px
+}
+#content LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#contentwide LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#content UL UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 16px; PADDING-TOP: 0px
+}
+#contentwide UL UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 16px; PADDING-TOP: 0px
+}
+#content OL OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 16px; PADDING-TOP: 0px
+}
+#contentwide OL OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 16px; PADDING-TOP: 0px
+}
+#footer {
+	CLEAR: both; PADDING-RIGHT: 0px; BORDER-TOP: #f0f0f0 4px solid; PADDING-LEFT: 0px; FONT-SIZE: 0.9em; BACKGROUND: #ffffff; PADDING-BOTTOM: 20px; MARGIN: 0px auto; WIDTH: 760px; COLOR: #808080; PADDING-TOP: 10px; TEXT-ALIGN: center
+}
+#footer A {
+	COLOR: #808080; TEXT-DECORATION: none
+}
+#footer A:hover {
+	TEXT-DECORATION: underline
+}
+.left {
+	FLOAT: left; MARGIN: 3px 10px 2px 0px
+}
+.right {
+	FLOAT: right; MARGIN: 2px 0px 2px 10px
+}
+.textright {
+	TEXT-ALIGN: right
+}
+.center {
+	TEXT-ALIGN: center
+}
+.small {
+	FONT-SIZE: 0.8em
+}
+.bold {
+	FONT-WEIGHT: bold
+}
+.hide {
+	DISPLAY: none
+}
