@@ -1,0 +1,9 @@
+main:
+  - title: "Main"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Information for Students"
+    url: /students/
+  - title: "Application Materials"
+    url: /application/
