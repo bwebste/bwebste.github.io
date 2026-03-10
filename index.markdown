@@ -29,7 +29,7 @@ of <a href="http://math.berkeley.edu/%7Ereshetik">Nicolai Reshetikhin</a>.</p>
 <p>Former students:<br>
 <a href="https://aidensuter.com/">Aiden Suter</a>
 <br>
-Dinushi Munasinghe
+<a href="https://sites.google.com/view/dinushim/home">Dinushi Munasinghe</a>
 
 <p><strong>Email address:</strong> <a href="mailto:ben.webster@uwaterloo.ca">ben.webster@uwaterloo.ca</a></p>
 
