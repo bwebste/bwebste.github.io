@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-<p>I'm an Associate Professor at the <a href="https://uwaterloo.ca">University of Waterloo</a> in the <a href="https://uwaterloo.ca/pure-mathematics/">Pure Mathematics Department</a>
+<p>I'm a Professor at the <a href="https://uwaterloo.ca">University of Waterloo</a> in the <a href="https://uwaterloo.ca/pure-mathematics/">Pure Mathematics Department</a>
 and Associate Faculty at <a href="https://www.perimeterinstitute.ca/">Perimeter Institute.</a> I'm currently
 the Associate Chair for Graduate Studies in the Pure Mathematics Department.</p>
 
