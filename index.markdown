@@ -14,7 +14,7 @@ including knot homology, the geometry of symplectic singularities, and categorif
 and Perimeter in 2017. In the past, I've been an Assistant Professor at the <a href="http://math.virginia.edu">University
 of Virginia</a>, <a href="http://www.math.neu.edu">Northeastern University</a> and the <a href="http://math.uoregon.edu/">University
 of Oregon</a>, a C.L.E. Moore Instructor at <a href="http://math.mit.edu/">MIT</a>, and a postdoctoral fellow at <a href="http://math.ias.edu/">the
-Institute for Advanced Study</a>. For more detailed information, see my <a href="https://uwaterloo.ca/scholar/sites/ca.scholar/files/b2webste/files/cv.pdf">full CV</a>.</p>
+Institute for Advanced Study</a>. For more detailed information, see my <a href="/CV.pdf">full CV</a>.</p>
 
 <p>I received my Ph.D. in 2007 from <a href="http://math.berkeley.edu/">UC Berkeley</a>, under the supervision
 of <a href="http://math.berkeley.edu/%7Ereshetik">Nicolai Reshetikhin</a>.</p>
