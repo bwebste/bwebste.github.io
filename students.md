@@ -17,7 +17,7 @@ author_profile: true
 
 <p><strong>Sounds cool. Are you accepting new students?</strong></p>
 
-<p>I am open to taking on new students in Fall 2026. If you're already planning on starting PSI or the UW MMath program in 2025, then 2025 is a possibility, but Fall 2026 is the earliest we can admit new students. I am busy as Associate Chair for the next several years and will be on sabbatical in 2027-8, so I will be selective about taking new students on. The Waterloo MMath and PhD programs typically don't admit students in Winter or Spring (though if you really think we should make an exception for you, you can email me about it).</p>
+<p>I am open to taking on new students in Fall 2027, unless you're already planning on starting PSI or the UW MMath program in 2026. I am busy as Associate Chair for the next several years and expect to take a sabbatical soon, so I will be selective about taking new students on. The Waterloo MMath and PhD programs typically don't admit students in Winter or Spring (though if you really think we should make an exception for you, you can email me about it).</p>
 
 <p><strong>So, how do I make that happen?</strong></p>
 
