@@ -20,13 +20,15 @@ Institute for Advanced Study</a>. For more detailed information, see my <a href=
 of <a href="http://math.berkeley.edu/%7Ereshetik">Nicolai Reshetikhin</a>.</p>
 
 <p>My group:<br>
-<a href="https://uwaterloo.ca/pure-mathematics/contacts/keke-zhang">Keke Zhang</a> (PhD student)<br>
+Boris Li (MMath student)<br>
 <a href="https://uwaterloo.ca/pure-mathematics/contacts/nikita-grygoryev">Nikita Grygoryev</a> (PhD student)<br>
 <a href="https://perimeterinstitute.ca/people/meri-zaimi">Meri Zaimi</a> (NSERC postdoc)<br>
 <a href="https://uwaterloo.ca/pure-mathematics/contacts/jack-jia">Jack Jia</a> (PhD student)<br>
 </p>
 
 <p>Former students:<br>
+<a href="https://uwaterloo.ca/pure-mathematics/contacts/keke-zhang">Keke Zhang</a>
+<br>
 <a href="https://aidensuter.com/">Aiden Suter</a>
 <br>
 <a href="https://sites.google.com/view/dinushim/home">Dinushi Munasinghe</a>
