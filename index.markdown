@@ -20,7 +20,7 @@ Institute for Advanced Study</a>. For more detailed information, see my <a href=
 of <a href="http://math.berkeley.edu/%7Ereshetik">Nicolai Reshetikhin</a>.</p>
 
 <p>My group:<br>
-Boris Li (MMath student)<br>
+Boris Li (PhD student)<br>
 <a href="https://uwaterloo.ca/pure-mathematics/contacts/nikita-grygoryev">Nikita Grygoryev</a> (PhD student)<br>
 <a href="https://perimeterinstitute.ca/people/meri-zaimi">Meri Zaimi</a> (NSERC postdoc)<br>
 <a href="https://uwaterloo.ca/pure-mathematics/contacts/jack-jia">Jack Jia</a> (PhD student)<br>
