@@ -1,0 +1,274 @@
+# Talks with recordings or slides on the web, newest first.
+# Fields: title, date ("YYYY-MM-DD" or "YYYY-MM", quoted), venue,
+#         video / slides (URLs, either optional),
+#         videos: [{label, url}] for multi-part series or extra links, notes (optional).
+
+
+- title: "Symplectic leaves of Coulomb branches"
+  date: "2026-10-02"
+  venue: "SLMath, Berkeley"
+  slides: /SLMath-2026.pdf
+
+- title: "3-d mirror symmetry"
+  date: "2026-09-03"
+  venue: "Summer School: Algebra and Geometry meets Quantum Fields and Strings"
+  video: https://wolke.math.uni-hamburg.de/index.php/s/DdkAgacWHHHWz5P
+
+- title: "If you can't beat 'em, join 'em"
+  date: "2026-07-17"
+  venue: "Researcher Presentations, Perimeter Institute"
+  video: https://pirsa.org/26070042
+  slides: https://pdf.pirsa.org/files/26070042.pdf
+
+- title: "On the geometry of Coulomb branches"
+  date: "2026-05-27"
+  venue: "Glasgow"
+  slides: /Glasgow-2026.pdf
+
+- title: "iQuantum groups and categorification, II"
+  date: "2025-10-21"
+  venue: "Diagrammatic Categorification workshop, ICERM"
+  video: https://icerm.brown.edu/video_archive/4384
+  slides: https://app.icerm.brown.edu/assets/542/10107/10107_5641_Webster_102120251600_Slides.pdf
+
+- title: "Coulomb branches without tears (or affine Grassmannians)"
+  date: "2025-10-03"
+  venue: "Mathematical Physics Seminar, Perimeter Institute"
+  video: https://pirsa.org/25100107
+  slides: https://pdf.pirsa.org/files/25100107.pdf
+
+- title: "The geometry of Coulomb branches"
+  date: "2025-06-25"
+  venue: "String-Math 2025, BIMSA, Beijing"
+  slides: https://bimsa.net/doc/notes/44754.pdf
+
+- title: "Geometry of Coulomb branches"
+  date: "2025-03-31"
+  venue: "Symplectic Singularities, Supersymmetric QFT, and Geometric Representation Theory, Simons Center for Geometry and Physics"
+  video: https://scgp.stonybrook.edu/video_portal/video.php?id=6989
+  slides: https://media.scgp.stonybrook.edu/presentations/2024/20250331_Webster.pdf
+
+- title: "The geometry of Coulomb branches"
+  date: "2025-02-25"
+  venue: "Geometry and Physics Seminar, Fields Institute"
+  video: https://www.youtube.com/watch?v=3Z9ZK7Y8YQY
+
+- title: "Gluing constructions for Coulomb branches"
+  date: "2025-01-21"
+  venue: "Geometry, Algebra and Theoretical Physics Seminar, Imperial College London"
+  video: https://www.youtube.com/watch?v=6lRTqcWq5NE
+
+- title: "Modern Algebraic Geometry"
+  date: "2025-01"
+  venue: "Fields Academy Shared Graduate Course"
+  notes: "full-semester course"
+  videos:
+    - {label: "video playlist", url: "https://www.youtube.com/playlist?list=PLArBKNfJxuulCCX0z_n5JJcvZrX9ej8uq"}
+
+- title: "3d mirror symmetry"
+  date: "2024-09-18"
+  venue: "Quantization in Representation Theory, Derived Algebraic Geometry, and Gauge Theory, Les Diablerets"
+  slides: "https://indico.global/event/9622/contributions/92137/attachments/42124/79000/Les%20Diablerets-2024-revised.pdf"
+
+- title: "The cotangent bundle of the Grassmannian as a Coulomb branch"
+  date: "2024-04-29"
+  venue: "Informal String-Math Seminar, UC Berkeley"
+  video: https://www.youtube.com/watch?v=NTYVxBdbWhM
+  slides: https://math.berkeley.edu/~danilenko/data/S24/Webster_04_29_24.pdf
+
+- title: "Twisted traces and symplectic singularities"
+  date: "2024-03-22"
+  venue: "Quiver Meetings (online)"
+  video: https://www.youtube.com/watch?v=hiTBto442tE
+
+- title: "Finite W-algebras as Coulomb branches"
+  date: "2023-08-29"
+  venue: "Geometric Representation Theory and W-algebras, ICMS, Edinburgh"
+  video: https://www.youtube.com/watch?v=Rt64VlydEAM
+
+- title: "Categorical sl2 actions and RoCK blocks"
+  date: "2023-02-15"
+  venue: "Categorification in Representation Theory, Sydney"
+  video: https://www.youtube.com/watch?v=ZGWXYKwfmEI
+  slides: https://web.archive.org/web/20240807164021/https://uwaterloo.ca/scholar/sites/ca.scholar/files/b2webste/files/rock_blocks_and_klrw_algebras.pdf
+
+- title: "Categorical sl2 representations and modular representation theory"
+  date: "2023-02-06"
+  venue: "Categorification in Representation Theory, Sydney"
+  notes: "expository series of 4 lectures"
+  videos:
+    - {label: "lecture 1", url: "https://www.youtube.com/watch?v=n7gQPgZ_whE"}
+    - {label: "lecture 2", url: "https://www.youtube.com/watch?v=C2IuukljnFQ"}
+    - {label: "lecture 3", url: "https://www.youtube.com/watch?v=i1pYz2caTMQ"}
+    - {label: "lecture 4", url: "https://www.youtube.com/watch?v=1LjPvgU_OLs"}
+    - {label: "slides 1", url: "https://web.archive.org/web/20240808212635/https://uwaterloo.ca/scholar/sites/ca.scholar/files/b2webste/files/sydney_workshop_-_lecture_1.pdf"}
+    - {label: "slides 2", url: "https://web.archive.org/web/20240807191655/https://uwaterloo.ca/scholar/sites/ca.scholar/files/b2webste/files/sydney_workshop_-_lecture_2.pdf"}
+    - {label: "slides 3", url: "https://web.archive.org/web/20240808014945/https://uwaterloo.ca/scholar/sites/ca.scholar/files/b2webste/files/sydney_workshop_-_lecture_3.pdf"}
+    - {label: "slides 4", url: "https://web.archive.org/web/20240807130851/https://uwaterloo.ca/scholar/sites/ca.scholar/files/b2webste/files/sydney_workshop_-_lecture_4.pdf"}
+
+- title: "Noncommutative resolutions and Coulomb branches"
+  date: "2023-01-18"
+  venue: "Representation Theory Seminar, Melbourne"
+  slides: https://web.archive.org/web/20240807130000/https://uwaterloo.ca/scholar/sites/ca.scholar/files/b2webste/files/melbourne-2023.pdf.pdf
+
+- title: "The noncommutative Springer resolution of type A and KLRW algebras"
+  date: "2023-01-11"
+  venue: "Institute for Mathematical Sciences, NUS, Singapore"
+  video: https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=4ea34a70-e718-4449-8b52-afd7001acda1
+  slides: https://web.archive.org/web/20240807200351/https://uwaterloo.ca/scholar/sites/ca.scholar/files/b2webste/files/singapore-2023.pdf
+
+- title: "Mirror symmetry for Coulomb branches"
+  date: "2022-12-13"
+  venue: "Mirror Symmetry Seminar, ShanghaiTech (online)"
+  video: https://www.youtube.com/watch?v=PToGIF1W0qc
+
+- title: "Fun with Coulomb branches"
+  date: "2022-12-07"
+  venue: "Floer theory of symmetric products and Hilbert schemes, American Institute of Mathematics"
+  slides: https://web.archive.org/web/20240630004950/https://uwaterloo.ca/scholar/sites/ca.scholar/files/b2webste/files/aim-2022.pdf
+
+- title: "Discussion on knot homology"
+  date: "2022-06-27"
+  venue: "QFT for Mathematicians 2022, Perimeter Institute"
+  video: https://pirsa.org/22060082
+  notes: "panel with Tudor Dimofte and Lev Rozansky"
+
+- title: "Coulomb branches and representation theory"
+  date: "2022-06-12"
+  venue: "Canada-Mexico-USA Conference in Representation Theory, Noncommutative Algebra, and Categorification, Northeastern University"
+  slides: https://web.archive.org/web/20240630010216/https://uwaterloo.ca/scholar/sites/ca.scholar/files/b2webste/files/us-can-mex-2022.pdf
+
+- title: "Noncommutative resolutions of Coulomb branches"
+  date: "2022-04-29"
+  venue: "MIT"
+  slides: https://web.archive.org/web/20240701151736/https://uwaterloo.ca/scholar/sites/ca.scholar/files/b2webste/files/mit-2022.pdf
+
+- title: "Representation theory (and a little bit of quantum field theory)"
+  date: "2022-04-28"
+  venue: "GPRT Seminar, Northeastern University"
+  video: https://www.youtube.com/watch?v=VxSjRAJn-QM
+  slides: https://web.archive.org/web/20240630024204/https://uwaterloo.ca/scholar/sites/ca.scholar/files/b2webste/files/nu-2022.pdf
+
+- title: "Hypertoric mirror symmetry"
+  date: "2022-04-27"
+  venue: "Geometry Seminar, Boston University"
+  slides: https://web.archive.org/web/20240630010005/https://uwaterloo.ca/scholar/sites/ca.scholar/files/b2webste/files/bu-2022.pdf
+
+- title: "Noncommutative resolutions of Coulomb branches"
+  date: "2021-10-25"
+  venue: "Berkeley String-Math Seminar (online)"
+  video: https://www.youtube.com/watch?v=HUy1DPcD7cA
+  slides: https://math.berkeley.edu/~danilenko/data/F21/Webster_10_25_21.pdf
+
+- title: "Knot homology from coherent sheaves on Coulomb branches"
+  date: "2021-05-20"
+  venue: "Perspectives on Knot Homology, BIRS (online)"
+  slides: https://www.birs.ca/workshops/2021/21w5105/files/Webster/coherent-coulombII.pdf
+
+- title: "Knot homology and coherent sheaves on Coulomb branches"
+  date: "2021-04-08"
+  venue: "M-Seminar, Kansas State University (online)"
+  video: https://www.youtube.com/watch?v=z6gxDeiHJ6M
+
+- title: "Symplectic Geometry"
+  date: "2021-01"
+  venue: "Fields Academy Shared Graduate Course"
+  notes: "full-semester course"
+  videos:
+    - {label: "video playlist", url: "https://www.youtube.com/playlist?list=PLArBKNfJxuukGoNZD6yBjie_zgY-x8Vn2"}
+
+- title: "Hypertoric mirror symmetry"
+  date: "2020-11-05"
+  venue: "Geometry and Physics Seminar, Northwestern University (online)"
+  slides: https://web.archive.org/web/20240630045917/https://uwaterloo.ca/scholar/sites/ca.scholar/files/b2webste/files/nw-2020.pdf
+
+- title: "Coulomb branches and cylindrical KLRW algebras"
+  date: "2020-09-11"
+  venue: "Learning Seminar on Categorification (online)"
+  notes: "2 talks"
+  videos:
+    - {label: "part 1", url: "https://www.youtube.com/watch?v=ZGO9wC-L0ho"}
+    - {label: "part 2", url: "https://www.youtube.com/watch?v=iZTuuI5T33o"}
+    - {label: "slides 1", url: "https://web.archive.org/web/20240630190240/https://uwaterloo.ca/scholar/sites/ca.scholar/files/b2webste/files/categorification-2020-i.pdf"}
+    - {label: "slides 2", url: "https://web.archive.org/web/20240630154813/https://uwaterloo.ca/scholar/sites/ca.scholar/files/b2webste/files/categorification-2020-ii.pdf"}
+
+- title: "Tensor functors and categorification"
+  date: "2020-08-21"
+  venue: "Quantum groups, Representation theory, Superalgebras, and Tensor categories (online)"
+  video: https://www.youtube.com/watch?v=rYiitwO4odg
+
+- title: "Howe to translate Gelfand-Tsetlin"
+  date: "2020-08-12"
+  venue: "QUACKS (online)"
+  video: https://www.youtube.com/watch?v=tWyFM-Fbcc0
+
+- title: "3d mirror symmetry and its discontents"
+  date: "2020-08-10"
+  venue: "Western Hemisphere Colloquium on Geometry and Physics (online)"
+  video: https://www.youtube.com/watch?v=CfyNLZeP5iU
+  slides: https://web.math.ucsb.edu/~drm/WHCGP/WH-Webster.pdf
+
+- title: "S(ymplectic) duality: where do we stand?"
+  date: "2020-02-07"
+  venue: "Geometric Representation Theory Seminar, Fields Institute"
+  video: https://video-archive.fields.utoronto.ca/2020/02/1519-22186
+
+- title: "Tilting bundles and 3-dimensional field theory"
+  date: "2019-09-26"
+  venue: "Mathematical Physics Seminar, Perimeter Institute"
+  video: https://pirsa.org/19090115
+  slides: https://pdf.pirsa.org/files/19090115.pdf
+
+- title: "Mathematical hints of 3-d mirror symmetry"
+  date: "2019-04-15"
+  venue: "Mathematical Physics Seminar, Perimeter Institute"
+  video: https://pirsa.org/19040120
+  slides: https://pdf.pirsa.org/files/19040120.pdf
+
+- title: "Gelfand-Tsetlin theory and Coulomb branches"
+  date: "2019-04-01"
+  venue: "CIRM, Luminy"
+  video: https://www.youtube.com/watch?v=7W3v3uKHrtE
+
+- title: "An extended category for the BFN construction"
+  date: "2017-09-25"
+  venue: "Mathematical Physics Seminar, Perimeter Institute"
+  video: https://pirsa.org/17090065
+  slides: https://pdf.pirsa.org/files/17090065.pdf
+
+- title: "Representation theory and the Coulomb branch"
+  date: "2017-06-27"
+  venue: "Quantum topology and categorified representation theory, Isaac Newton Institute"
+  video: https://www.youtube.com/watch?v=SDtKdW6ldAs
+
+- title: "Three-dimensional mirror symmetry: a mathematical perspective"
+  date: "2017-03-02"
+  venue: "Colloquium, Perimeter Institute"
+  video: https://pirsa.org/17030051
+  slides: https://pdf.pirsa.org/files/17030051.pdf
+
+- title: "Category O for a quiver variety"
+  date: "2013-10-17"
+  venue: "Workshop on Quiver Varieties, Simons Center for Geometry and Physics"
+  video: https://scgp.stonybrook.edu/video_portal/video.php?id=943
+  slides: https://media.scgp.stonybrook.edu/presentations/2013/20131017_webster.pdf
+
+- title: "Representation theory of symplectic singularities"
+  date: "2013-03"
+  venue: "Worldwide Center of Mathematics"
+  video: https://www.youtube.com/watch?v=im8BUUDuAYE
+
+- title: "Categorification, canonical bases and knot invariants"
+  date: "2011-09-12"
+  venue: "Perspectives in algebraic Lie theory, Isaac Newton Institute"
+  video: https://www.youtube.com/watch?v=2SkypU-kTiU
+
+- title: "Categorification of quantum groups and quantum knot invariants"
+  date: "2010-03-17"
+  venue: "Homology Theories of Knots and Links, MSRI"
+  video: https://legacy.slmath.org/workshops/512/schedules/4033
+
+- title: "Knot homology for quantum invariants through pictures"
+  date: "2010-01-29"
+  venue: "Introductory Workshop: Homology Theories of Knots and Links, MSRI"
+  video: https://legacy.slmath.org/workshops/511/schedules/4021
